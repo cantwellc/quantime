@@ -1,7 +1,7 @@
 {
 "companyName": "Quantum Realm Games",
 "productName": "Quantum Chess",
-"productVersion": "0.36",
+"productVersion": "0.36-qute",
 "dataUrl": "quantime.data.unityweb",
 "asmCodeUrl": "quantime.asm.code.unityweb",
 "asmMemoryUrl": "quantime.asm.memory.unityweb",
